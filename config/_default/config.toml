@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://phuclb1.github.io/conner/"
+baseurl = "https://phucledaily.com"
 languageCode = "en-us"
 paginate = 5
 title = "Potter With Quant"
